@@ -10,10 +10,10 @@
     display: block;
     text-align: right;
 }
-.header-img {
+.header_img {
     width: 100%;
 }
-.more_inf {
+.header_link {
     font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@
     .header { text-align: center;
     }
 }
-.centered-main-page-element {
+.main {
     display: block;
     width: 500px;
     margin: 0 auto 0;
